@@ -11,7 +11,7 @@ A desktop application with a graphical user interface (GUI) designed to extract 
 
 *Here’s the main interface of the E-Commerce Web Scraper:*
 
-![img]()
+![img](https://github.com/Dharmendra0305/SCT_SD_4/blob/6f287c5973bee7b31f3b0097593b8fb3153402a0/1.png)
 
 ## ✨ Features
 * **Interactive GUI:** Built with Java Swing for a user-friendly experience.
@@ -44,7 +44,7 @@ A desktop application with a graphical user interface (GUI) designed to extract 
 
 *- Example:*
 
-![img]()  ![img]()
+![img](https://github.com/Dharmendra0305/SCT_SD_4/blob/6f287c5973bee7b31f3b0097593b8fb3153402a0/2.png)  ![img](https://github.com/Dharmendra0305/SCT_SD_4/blob/6f287c5973bee7b31f3b0097593b8fb3153402a0/3.png)
 
 ## 🤝 Contribution Guidelines
 - Contributions, issues, and feature requests are welcome!
